@@ -4,9 +4,9 @@ https://arxiv.org/pdf/1908.02900.pdf
 
 TODO: 
 
-1. Focal loss
-2. Tune image augmentation hyperparameters
-3. Apply additional augmentations
-4. Use TTA (test-time-augmentation)
-5. Use extraimages dataset
+1. Tune image augmentation hyperparameters
+2. Apply additional augmentations
+3. Use TTA (test-time-augmentation)
+4. Use extraimages dataset
 5. SWA optimizer?
+6. K-Fold CV
